@@ -1,5 +1,5 @@
-# [TabChi](http://yon.ir/4cR3)
+# [TABFA™](http://telegram.me/GODILOVEYOUME2)
 * **Install Bot**
 `````sh
-yon.ir/4cR3
+خرید اتولانچ بیا pv telegram.me/GODILOVEYOUME2
 `````
